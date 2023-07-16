@@ -1,0 +1,42 @@
+.results-container {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: rgb(226,210,249);
+    margin-right: 10px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+    width: 200px;
+    height: 200px;
+  }
+.results-container:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+  .results-container h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+  }
+  h2{
+    text-align: center;
+  }
+  .results-container p {
+    margin: 5px 0;
+    text-align: center;
+  }
+  .green {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .red {
+    color: red;
+    font-weight: bold;
+  }
+  .pink{
+    font-weight: bold;
+
+  }
+  
